@@ -6,9 +6,9 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpath.exclusionPatterns=enabled
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpath.multipleOutputLocations=enabled
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.5
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.5
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.7
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.debug.lineNumber=generate
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.debug.localVariable=generate
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.debug.sourceFile=generate
@@ -72,7 +72,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameterWhenOverridingConcrete=disabled
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedPrivateMember=warning
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.varargsArgumentNeedCast=warning
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.5
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.7
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.taskCaseSensitive=disabled
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.taskPriorities=NORMAL,HIGH
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.taskTags=ToDo,FixMe
