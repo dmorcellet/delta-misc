@@ -10,14 +10,6 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <repositories>
-    <repository>
-		<snapshots>
-			<enabled>false</enabled>
-		</snapshots>
-        <id>ext-release-local</id>
-        <name>ext-release-local</name>
-        <url>http://localhost:8081/artifactory/ext-release-local</url>
-    </repository>
   </repositories>
 
   <build>
